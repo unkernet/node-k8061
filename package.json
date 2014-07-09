@@ -1,0 +1,18 @@
+{
+  "name": "node-k8061",
+  "version": "1.0.0",
+  "description": "Control Velleman K8061 interface board",
+  "author": {
+    "name": "Unkernet",
+    "email": "unkernet@gmail.com",
+    "url": "http://unker.net/"
+  },
+  "main": "k8061.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/unkernet/node-k8061.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
